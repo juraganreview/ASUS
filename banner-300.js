@@ -5,5 +5,5 @@ ifrm.style.height = "300px";
 ifrm.style.overflow = "hidden";
 ifrm.scrolling = "none";
 
-var div = document.getElementById("banner-asus-index");
+var div = document.getElementById("banner-asus-index-300");
 div.appendChild(ifrm);
